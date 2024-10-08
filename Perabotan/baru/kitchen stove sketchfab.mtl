@@ -1,0 +1,161 @@
+# Blender MTL File: 'kitchen stove sketchfab.blend'
+# Material Count: 12
+
+newmtl Bronze_Bare
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Bronze Bare_normal.png
+map_Kd Textures\\Bronze Bare_basecolor.png
+map_Ns Textures\\Bronze Bare_roughness.png
+refl Textures\\Bronze Bare_metallic.png
+
+newmtl Brushed_Aluminium_2
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Brushed Aluminium 2_normal.png
+map_Kd Textures\\Brushed Aluminium 2_basecolor.png
+map_Ns Textures\\Brushed Aluminium 2_roughness.png
+refl Textures\\Brushed Aluminium 2_metallic.png
+
+newmtl Brushed_chrome
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.621449 0.627119 0.625985
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\Brushed chrome_normal.png
+map_Kd Textures\\Brushed chrome_basecolor.png
+map_Ns Textures\\Brushed chrome_roughness.png
+refl Textures\\Brushed chrome_metallic.png
+
+newmtl Dirty_Shiny_Plastic
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Dirty Shiny Plastic_normal.png
+map_Kd Textures\\Dirty Shiny Plastic_basecolor.png
+map_Ns Textures\\Dirty Shiny Plastic_roughness.png
+
+newmtl Material.001
+Ns 812.249999
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Stove_black_plastick
+Ns 728.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.005431 0.005431 0.005431
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Stove black plastick_normal.png
+map_Kd Textures\\Stove black plastick_basecolor.png
+map_Ns Textures\\Stove black plastick_roughness.png
+refl Textures\\Stove black plastick_metallic.png
+
+newmtl TexturesCom_Vents0126_1_masked_S
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\TexturesCom_Vents0126_1_masked_S_normal.png
+map_Kd Textures\\TexturesCom_Vents0126_1_masked_S_basecolor.png
+map_Ns Textures\\TexturesCom_Vents0126_1_masked_S_roughness.png
+map_d C:\\Users\\gyzen\\Desktop\\Blender Stuff\\Textures\\metal textures\\Metal_PBR_Substance_Materials\\steel\\TexturesCom_Vents0126_1_masked_S.png
+refl Textures\\TexturesCom_Vents0126_1_masked_S_metallic.png
+
+newmtl oven_colored_metal
+Ns 272.250012
+Ka 1.000000 1.000000 1.000000
+Kd 0.150576 0.150576 0.158432
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\oven colored metal_normal.png
+map_Kd Textures\\oven colored metal_basecolor.png
+map_Ns Textures\\oven colored metal_roughness.png
+refl Textures\\oven colored metal_metallic.png
+
+newmtl plastic_jars
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl stainless_steel
+Ns 650.249991
+Ka 1.000000 1.000000 1.000000
+Kd 0.656089 0.662084 0.660884
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Textures\\stainless steel_basecolor.png
+map_Ns Textures\\stainless steel_roughness.png
+refl Textures\\stainless steel_metallic.png
+
+newmtl stainless_steel_oven_plate
+Ns 650.249991
+Ka 1.000000 1.000000 1.000000
+Kd 0.656089 0.662084 0.660884
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Textures\\stainless steel oven plate_normal.png
+map_Kd Textures\\stainless steel oven plate_basecolor.png
+map_Ns Textures\\stainless steel oven plate_roughness.png
+refl Textures\\stainless steel oven plate_metallic.png
+
+newmtl stove_top_grills
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.069913 0.076831 0.082641
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\stove top grills_normal.png
+map_Kd Textures\\stove top grills_basecolor.png
+map_Ns Textures\\stove top grills_roughness.png
+refl Textures\\stove top grills_metallic.png

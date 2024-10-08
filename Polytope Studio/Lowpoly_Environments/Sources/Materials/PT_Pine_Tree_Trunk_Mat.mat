@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PT_Pine_Tree_Trunk_Mat
+  m_Shader: {fileID: 4800000, guid: cd18bd550ff6630468660d0150eed511, type: 3}
+  m_Parent: {fileID: 2100000, guid: 93415edde47040648869ae6638d33ced, type: 2}
+  m_ModifiedSerializedProperties: 2
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ANIMATEDECALEMISSIONONOFF_ON
+  - _CUSTOMWIND1_ON
+  - _CUSTOMWIND_ON
+  - _DECALEMISSIONONOFF_ON
+  - _SNOWNOISEONOFF_ON
+  - _WINDTRUNKMASKONOFF_ON
+  - _WORLDOBJECTGRADIENT_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseTexture:
+        m_Texture: {fileID: 2800000, guid: 5733ec0c27e7c9d41a230d27ca7b85d4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DecalsTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopProjectionTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ANIMATEOREEMISSIONONOFF: 0
+    - _DECALSONOFF: 0
+    - _DETAILTEXTUREONOFF: 0
+    - _DecalEmissionIntensity: 4
+    - _DetailTextureTiling: 0.5
+    - _Float2: 2.56
+    - _Gradient: 1
+    - _GradientPower: 1
+    - _OREEMISSIONONOFF: 0
+    - _OreEmissionIntensity: 1
+    - _Smoothness: 0.261
+    - _SnowAmount: 1
+    - _SnowCoverage: 0.45
+    - _SnowFade: 0.83
+    - _SnowNoiseContrast: 0.002
+    - _SnowNoiseScale: 87.23351
+    - _TopProjectionTextureCoverage: 1
+    - _TopProjectionTextureTiling: 0.5
+    - _WorldObjectGradient: 1
+    m_Colors:
+    - _DecakEmissionColor: {r: 1, g: 0.9248579, b: 0, a: 0}
+    - _DecalsColor: {r: 0, g: 0, b: 0, a: 0}
+    - _GroundColor: {r: 0.08490568, g: 0.05234205, b: 0.04846032, a: 1}
+    - _OreColor: {r: 1, g: 0.9248579, b: 0, a: 0}
+    - _OreEmissionColor: {r: 1, g: 0.9248579, b: 0, a: 0}
+    - _TopColor: {r: 0.4811321, g: 0.4036026, b: 0.2382966, a: 1}
+    - _Vector1: {r: 0, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
